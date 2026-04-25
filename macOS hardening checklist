@@ -1,0 +1,8 @@
+System Hardening Checklist
+System Description: macOS
+Checklist
+Enable latest updates- this will protect the system from security vulnerabilities 
+Configure firewall- when surfing the internet, it's important for the user to be protected from common exploits such as SQL injections
+Strong authentication- Making sure the user has a password that's not vulnerable to brute-force attacks
+Disable unused services- If the app isn't a default app (such as Maps) that the user doesn't use, the user must take precautions to delete any unnecessary applications
+Configure backups- it's imperative for the user to have backups in case theyy lose their primary file or their system is exposed to vulnerabilities 
